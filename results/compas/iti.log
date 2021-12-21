@@ -1,0 +1,12 @@
+Leaves: 92, xtests: 8.56, instances: 924, accuracy: 37.662, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 11
+c #samps: 1155
+saving data names to  ./iti/umass/data/compas/names
+saving samples to  ./iti/umass/data/compas/train.data
+c training time: 0.02
+load JSON tree from temp/ITI/compas.json ...
+c #nodes: 183
+c depth: 15
+saving DT to  ../bench/tree/compas/ITI/compas.dt
+saving DT map to  ../bench/map/compas/ITI/compas.map
+saving test data to  ./iti/umass/data/compas/test.data

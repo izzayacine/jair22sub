@@ -1,0 +1,12 @@
+Leaves: 13, xtests: 4.00, instances: 217, accuracy: 70.909, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 9
+c #samps: 272
+saving data names to  ./iti/umass/data/breast-cancer/names
+saving samples to  ./iti/umass/data/breast-cancer/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/breast-cancer.json ...
+c #nodes: 25
+c depth: 7
+saving DT to  ../bench/tree/breast-cancer/ITI/breast-cancer.dt
+saving DT map to  ../bench/map/breast-cancer/ITI/breast-cancer.map
+saving test data to  ./iti/umass/data/breast-cancer/test.data

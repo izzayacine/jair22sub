@@ -1,0 +1,14 @@
+c #feats: 5
+c #samps: 57
+c training time: 4.23
+load JSON tree from temp/IAI6/mouse.json ...
+c #nodes: 9
+c depth: 3
+saving DT to  ../bench/tree/mouse/IAI6/mouse.dt
+saving DT map to  ../bench/map/mouse/IAI6/mouse.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 83.33
+----------------------

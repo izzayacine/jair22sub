@@ -1,0 +1,12 @@
+Leaves: 89, xtests: 83.97, instances: 2542, accuracy: 55.346, cpu: 1.3000, transps: 0 (iti-fast)
+c #feats: 2
+c #samps: 3178
+saving data names to  ./iti/umass/data/splice/names
+saving samples to  ./iti/umass/data/splice/train.data
+c training time: 1.26
+load JSON tree from temp/ITI/splice.json ...
+c #nodes: 177
+c depth: 88
+saving DT to  ../bench/tree/splice/ITI/splice.dt
+saving DT map to  ../bench/map/splice/ITI/splice.map
+saving test data to  ./iti/umass/data/splice/test.data

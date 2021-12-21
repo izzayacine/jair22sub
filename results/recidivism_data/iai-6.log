@@ -1,0 +1,14 @@
+c #feats: 15
+c #samps: 3998
+c training time: 11.79
+load JSON tree from temp/IAI6/recidivism_data.json ...
+c #nodes: 105
+c depth: 6
+saving DT to  ../bench/tree/recidivism_data/IAI6/recidivism_data.dt
+saving DT map to  ../bench/map/recidivism_data/IAI6/recidivism_data.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 66.51
+Test accuracy: 61.00
+----------------------

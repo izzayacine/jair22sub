@@ -1,0 +1,14 @@
+c #feats: 256
+c #samps: 2000
+c training time: 4.97
+load JSON tree from temp/IAI6/tram_2000_side_16x16.json ...
+c #nodes: 3
+c depth: 1
+saving DT to  ../bench/tree/tram_2000_side_16x16/IAI6/tram_2000_side_16x16.dt
+saving DT map to  ../bench/map/tram_2000_side_16x16/IAI6/tram_2000_side_16x16.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 100.00
+----------------------

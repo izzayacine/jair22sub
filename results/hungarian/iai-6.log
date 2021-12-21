@@ -1,0 +1,14 @@
+c #feats: 13
+c #samps: 293
+c training time: 7.63
+load JSON tree from temp/IAI6/hungarian.json ...
+c #nodes: 33
+c depth: 6
+saving DT to  ../bench/tree/hungarian/IAI6/hungarian.dt
+saving DT map to  ../bench/map/hungarian/IAI6/hungarian.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 69.49
+----------------------

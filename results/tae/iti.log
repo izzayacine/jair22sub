@@ -1,0 +1,12 @@
+Leaves: 12, xtests: 4.91, instances: 88, accuracy: 36.364, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 5
+c #samps: 110
+saving data names to  ./iti/umass/data/tae/names
+saving samples to  ./iti/umass/data/tae/train.data
+c training time: 0.00
+load JSON tree from temp/ITI/tae.json ...
+c #nodes: 23
+c depth: 8
+saving DT to  ../bench/tree/tae/ITI/tae.dt
+saving DT map to  ../bench/map/tae/ITI/tae.map
+saving test data to  ./iti/umass/data/tae/test.data

@@ -1,0 +1,12 @@
+Leaves: 3, xtests: 1.58, instances: 158, accuracy: 72.500, cpu: 0.0100, transps: 0 (iti-fast)
+c #feats: 33
+c #samps: 198
+saving data names to  ./iti/umass/data/wpbc/names
+saving samples to  ./iti/umass/data/wpbc/train.data
+c training time: 0.03
+load JSON tree from temp/ITI/wpbc.json ...
+c #nodes: 5
+c depth: 2
+saving DT to  ../bench/tree/wpbc/ITI/wpbc.dt
+saving DT map to  ../bench/map/wpbc/ITI/wpbc.map
+saving test data to  ./iti/umass/data/wpbc/test.data

@@ -1,0 +1,12 @@
+Leaves: 2, xtests: 1.00, instances: 1600, accuracy: 100.000, cpu: 0.0100, transps: 0 (iti-fast)
+c #feats: 256
+c #samps: 2000
+saving data names to  ./iti/umass/data/tram_2000_side_16x16/names
+saving samples to  ./iti/umass/data/tram_2000_side_16x16/train.data
+c training time: 0.29
+load JSON tree from temp/ITI/tram_2000_side_16x16.json ...
+c #nodes: 3
+c depth: 1
+saving DT to  ../bench/tree/tram_2000_side_16x16/ITI/tram_2000_side_16x16.dt
+saving DT map to  ../bench/map/tram_2000_side_16x16/ITI/tram_2000_side_16x16.map
+saving test data to  ./iti/umass/data/tram_2000_side_16x16/test.data

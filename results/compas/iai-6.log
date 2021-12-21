@@ -1,0 +1,14 @@
+c #feats: 11
+c #samps: 1155
+c training time: 8.82
+load JSON tree from temp/IAI6/compas.json ...
+c #nodes: 77
+c depth: 6
+saving DT to  ../bench/tree/compas/IAI6/compas.dt
+saving DT map to  ../bench/map/compas/IAI6/compas.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 66.34
+Test accuracy: 34.63
+----------------------

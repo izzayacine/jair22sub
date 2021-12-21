@@ -1,0 +1,12 @@
+Leaves: 3, xtests: 1.45, instances: 120, accuracy: 96.667, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 54
+c #samps: 150
+saving data names to  ./iti/umass/data/divorce/names
+saving samples to  ./iti/umass/data/divorce/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/divorce.json ...
+c #nodes: 5
+c depth: 2
+saving DT to  ../bench/tree/divorce/ITI/divorce.dt
+saving DT map to  ../bench/map/divorce/ITI/divorce.map
+saving test data to  ./iti/umass/data/divorce/test.data

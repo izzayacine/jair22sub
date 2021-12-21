@@ -1,0 +1,12 @@
+Leaves: 4545, xtests: 13.00, instances: 54045, accuracy: 75.651, cpu: 1.1100, transps: 0 (iti-fast)
+c #feats: 42
+c #samps: 67557
+saving data names to  ./iti/umass/data/connect-4/names
+saving samples to  ./iti/umass/data/connect-4/train.data
+c training time: 2.61
+load JSON tree from temp/ITI/connect-4.json ...
+c #nodes: 9089
+c depth: 22
+saving DT to  ../bench/tree/connect-4/ITI/connect-4.dt
+saving DT map to  ../bench/map/connect-4/ITI/connect-4.map
+saving test data to  ./iti/umass/data/connect-4/test.data

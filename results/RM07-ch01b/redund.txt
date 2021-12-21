@@ -1,0 +1,11 @@
+path (Age<=30 > Gender=Male) is irredundant
+path (Age<=30 > Gender=Female > Last.R=Yes) is redundant
+path (Age<=30 > Gender=Female > Last.R=No) is redundant
+path (Age>30) is irredundant
+c nof paths: 4
+c redundant paths: 50%
+c non-redundant paths: 50%
+c redundant paths cover 25.00% instances
+c min redundancy: 33.33%
+c max redundancy: 33.33%
+c avg redundancy: 33.33%

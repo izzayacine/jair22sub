@@ -1,0 +1,12 @@
+Leaves: 72, xtests: 6.31, instances: 3368, accuracy: 91.330, cpu: 0.1400, transps: 0 (iti-fast)
+c #feats: 57
+c #samps: 4210
+saving data names to  ./iti/umass/data/spambase/names
+saving samples to  ./iti/umass/data/spambase/train.data
+c training time: 0.32
+load JSON tree from temp/ITI/spambase.json ...
+c #nodes: 143
+c depth: 15
+saving DT to  ../bench/tree/spambase/ITI/spambase.dt
+saving DT map to  ../bench/map/spambase/ITI/spambase.map
+saving test data to  ./iti/umass/data/spambase/test.data

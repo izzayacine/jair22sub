@@ -1,0 +1,12 @@
+Leaves: 36, xtests: 10.02, instances: 498, accuracy: 89.600, cpu: 0.0100, transps: 0 (iti-fast)
+c #feats: 35
+c #samps: 623
+saving data names to  ./iti/umass/data/soybean/names
+saving samples to  ./iti/umass/data/soybean/train.data
+c training time: 0.03
+load JSON tree from temp/ITI/soybean.json ...
+c #nodes: 71
+c depth: 16
+saving DT to  ../bench/tree/soybean/ITI/soybean.dt
+saving DT map to  ../bench/map/soybean/ITI/soybean.map
+saving test data to  ./iti/umass/data/soybean/test.data

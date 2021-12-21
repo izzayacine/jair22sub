@@ -1,0 +1,14 @@
+c #feats: 16
+c #samps: 18668
+c training time: 302.29
+load JSON tree from temp/IAI6/letter.json ...
+c #nodes: 127
+c depth: 6
+saving DT to  ../bench/tree/letter/IAI6/letter.dt
+saving DT map to  ../bench/map/letter/IAI6/letter.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 59.15
+Test accuracy: 58.46
+----------------------

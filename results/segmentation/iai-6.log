@@ -1,0 +1,14 @@
+c #feats: 19
+c #samps: 210
+c training time: 5.06
+load JSON tree from temp/IAI6/segmentation.json ...
+c #nodes: 15
+c depth: 4
+saving DT to  ../bench/tree/segmentation/IAI6/segmentation.dt
+saving DT map to  ../bench/map/segmentation/IAI6/segmentation.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 38.10
+----------------------

@@ -1,0 +1,14 @@
+c #feats: 4
+c #samps: 93
+c training time: 5.27
+load JSON tree from temp/IAI6/hayes-roth.json ...
+c #nodes: 23
+c depth: 6
+saving DT to  ../bench/tree/hayes-roth/IAI6/hayes-roth.dt
+saving DT map to  ../bench/map/hayes-roth/IAI6/hayes-roth.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 91.89
+Test accuracy: 78.95
+----------------------

@@ -1,0 +1,14 @@
+c #feats: 7
+c #samps: 108
+c training time: 5.89
+load JSON tree from temp/IAI6/cloud.json ...
+c #nodes: 9
+c depth: 3
+saving DT to  ../bench/tree/cloud/IAI6/cloud.dt
+saving DT map to  ../bench/map/cloud/IAI6/cloud.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 31.82
+----------------------

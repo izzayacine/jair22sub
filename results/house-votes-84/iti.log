@@ -1,0 +1,12 @@
+Leaves: 5, xtests: 2.10, instances: 238, accuracy: 90.000, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 16
+c #samps: 298
+saving data names to  ./iti/umass/data/house-votes-84/names
+saving samples to  ./iti/umass/data/house-votes-84/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/house-votes-84.json ...
+c #nodes: 9
+c depth: 3
+saving DT to  ../bench/tree/house-votes-84/ITI/house-votes-84.dt
+saving DT map to  ../bench/map/house-votes-84/ITI/house-votes-84.map
+saving test data to  ./iti/umass/data/house-votes-84/test.data

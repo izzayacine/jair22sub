@@ -1,0 +1,12 @@
+Leaves: 89, xtests: 6.48, instances: 6704, accuracy: 91.408, cpu: 0.1700, transps: 0 (iti-fast)
+c #feats: 85
+c #samps: 8380
+saving data names to  ./iti/umass/data/coil2000/names
+saving samples to  ./iti/umass/data/coil2000/train.data
+c training time: 0.58
+load JSON tree from temp/ITI/coil2000.json ...
+c #nodes: 177
+c depth: 12
+saving DT to  ../bench/tree/coil2000/ITI/coil2000.dt
+saving DT map to  ../bench/map/coil2000/ITI/coil2000.map
+saving test data to  ./iti/umass/data/coil2000/test.data

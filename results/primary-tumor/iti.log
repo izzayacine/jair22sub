@@ -1,0 +1,12 @@
+Leaves: 11, xtests: 3.36, instances: 182, accuracy: 82.609, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 15
+c #samps: 228
+saving data names to  ./iti/umass/data/primary-tumor/names
+saving samples to  ./iti/umass/data/primary-tumor/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/primary-tumor.json ...
+c #nodes: 21
+c depth: 6
+saving DT to  ../bench/tree/primary-tumor/ITI/primary-tumor.dt
+saving DT map to  ../bench/map/primary-tumor/ITI/primary-tumor.map
+saving test data to  ./iti/umass/data/primary-tumor/test.data

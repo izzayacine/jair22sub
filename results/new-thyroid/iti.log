@@ -1,0 +1,12 @@
+Leaves: 15, xtests: 10.83, instances: 172, accuracy: 79.070, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 5
+c #samps: 215
+saving data names to  ./iti/umass/data/new-thyroid/names
+saving samples to  ./iti/umass/data/new-thyroid/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/new-thyroid.json ...
+c #nodes: 29
+c depth: 14
+saving DT to  ../bench/tree/new-thyroid/ITI/new-thyroid.dt
+saving DT map to  ../bench/map/new-thyroid/ITI/new-thyroid.map
+saving test data to  ./iti/umass/data/new-thyroid/test.data

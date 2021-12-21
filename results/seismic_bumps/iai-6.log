@@ -1,0 +1,14 @@
+c #feats: 18
+c #samps: 2578
+c training time: 36.63
+load JSON tree from temp/IAI6/seismic_bumps.json ...
+c #nodes: 37
+c depth: 6
+saving DT to  ../bench/tree/seismic_bumps/IAI6/seismic_bumps.dt
+saving DT map to  ../bench/map/seismic_bumps/IAI6/seismic_bumps.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 89.92
+----------------------

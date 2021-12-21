@@ -1,0 +1,12 @@
+path (SoftEng=A > Project=A) is irredundant
+path (SoftEng=A > Project=B > Arin=A > CSA=A) is redundant
+path (SoftEng=A > Project=B > Arin=A > CSA=B) is redundant
+path (SoftEng=A > Project=B > Arin=B) is redundant
+path (SoftEng=B) is irredundant
+c nof paths: 5
+c redundant paths: 60%
+c non-redundant paths: 40%
+c redundant paths cover 25.00% instances
+c min redundancy: 25.00%
+c max redundancy: 50.00%
+c avg redundancy: 36.11%

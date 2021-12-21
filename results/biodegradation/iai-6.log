@@ -1,0 +1,14 @@
+c #feats: 41
+c #samps: 1052
+c training time: 13.73
+load JSON tree from temp/IAI6/biodegradation.json ...
+c #nodes: 19
+c depth: 5
+saving DT to  ../bench/tree/biodegradation/IAI6/biodegradation.dt
+saving DT map to  ../bench/map/biodegradation/IAI6/biodegradation.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 65.40
+----------------------

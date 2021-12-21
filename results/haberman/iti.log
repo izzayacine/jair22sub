@@ -1,0 +1,12 @@
+Leaves: 18, xtests: 4.96, instances: 231, accuracy: 74.138, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 3
+c #samps: 289
+saving data names to  ./iti/umass/data/haberman/names
+saving samples to  ./iti/umass/data/haberman/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/haberman.json ...
+c #nodes: 35
+c depth: 12
+saving DT to  ../bench/tree/haberman/ITI/haberman.dt
+saving DT map to  ../bench/map/haberman/ITI/haberman.map
+saving test data to  ./iti/umass/data/haberman/test.data

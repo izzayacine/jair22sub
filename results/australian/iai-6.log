@@ -1,0 +1,14 @@
+c #feats: 14
+c #samps: 690
+c training time: 19.43
+load JSON tree from temp/IAI6/australian.json ...
+c #nodes: 45
+c depth: 6
+saving DT to  ../bench/tree/australian/IAI6/australian.dt
+saving DT map to  ../bench/map/australian/IAI6/australian.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 61.59
+----------------------

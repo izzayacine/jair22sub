@@ -1,0 +1,4 @@
+c nof paths: 2
+c redundant paths: 0%
+c non-redundant paths: 100%
+c redundant paths cover 0.00% instances

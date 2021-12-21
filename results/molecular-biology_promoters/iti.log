@@ -1,0 +1,12 @@
+Leaves: 5, xtests: 2.15, instances: 84, accuracy: 81.818, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 58
+c #samps: 106
+saving data names to  ./iti/umass/data/molecular-biology_promoters/names
+saving samples to  ./iti/umass/data/molecular-biology_promoters/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/molecular-biology_promoters.json ...
+c #nodes: 9
+c depth: 3
+saving DT to  ../bench/tree/molecular-biology_promoters/ITI/molecular-biology_promoters.dt
+saving DT map to  ../bench/map/molecular-biology_promoters/ITI/molecular-biology_promoters.map
+saving test data to  ./iti/umass/data/molecular-biology_promoters/test.data

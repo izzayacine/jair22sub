@@ -1,0 +1,14 @@
+c #feats: 22
+c #samps: 357
+c training time: 12.14
+load JSON tree from temp/IAI6/colic.json ...
+c #nodes: 55
+c depth: 6
+saving DT to  ../bench/tree/colic/IAI6/colic.dt
+saving DT map to  ../bench/map/colic/IAI6/colic.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 81.94
+----------------------

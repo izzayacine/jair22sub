@@ -1,0 +1,14 @@
+c #feats: 54
+c #samps: 150
+c training time: 5.56
+load JSON tree from temp/IAI6/divorce.json ...
+c #nodes: 15
+c depth: 5
+saving DT to  ../bench/tree/divorce/IAI6/divorce.dt
+saving DT map to  ../bench/map/divorce/IAI6/divorce.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 90.00
+----------------------

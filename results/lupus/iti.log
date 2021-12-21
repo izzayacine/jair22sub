@@ -1,0 +1,12 @@
+Leaves: 2, xtests: 1.00, instances: 69, accuracy: 61.111, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 3
+c #samps: 87
+saving data names to  ./iti/umass/data/lupus/names
+saving samples to  ./iti/umass/data/lupus/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/lupus.json ...
+c #nodes: 3
+c depth: 1
+saving DT to  ../bench/tree/lupus/ITI/lupus.dt
+saving DT map to  ../bench/map/lupus/ITI/lupus.map
+saving test data to  ./iti/umass/data/lupus/test.data

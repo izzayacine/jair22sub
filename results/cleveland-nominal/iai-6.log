@@ -1,0 +1,14 @@
+c #feats: 7
+c #samps: 187
+c training time: 5.92
+load JSON tree from temp/IAI6/cleveland-nominal.json ...
+c #nodes: 81
+c depth: 6
+saving DT to  ../bench/tree/cleveland-nominal/IAI6/cleveland-nominal.dt
+saving DT map to  ../bench/map/cleveland-nominal/IAI6/cleveland-nominal.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 70.47
+Test accuracy: 31.58
+----------------------

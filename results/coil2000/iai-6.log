@@ -1,0 +1,14 @@
+c #feats: 85
+c #samps: 8380
+c training time: 57.12
+load JSON tree from temp/IAI6/coil2000.json ...
+c #nodes: 99
+c depth: 6
+saving DT to  ../bench/tree/coil2000/IAI6/coil2000.dt
+saving DT map to  ../bench/map/coil2000/IAI6/coil2000.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 94.15
+Test accuracy: 92.42
+----------------------

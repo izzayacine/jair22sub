@@ -1,0 +1,12 @@
+Leaves: 135, xtests: 21.57, instances: 116468, accuracy: 99.869, cpu: 6.2800, transps: 0 (iti-fast)
+c #feats: 41
+c #samps: 145585
+saving data names to  ./iti/umass/data/kddcup/names
+saving samples to  ./iti/umass/data/kddcup/train.data
+c training time: 10.19
+load JSON tree from temp/ITI/kddcup.json ...
+c #nodes: 269
+c depth: 29
+saving DT to  ../bench/tree/kddcup/ITI/kddcup.dt
+saving DT map to  ../bench/map/kddcup/ITI/kddcup.map
+saving test data to  ./iti/umass/data/kddcup/test.data

@@ -1,0 +1,14 @@
+c #feats: 9
+c #samps: 449
+c training time: 6.18
+load JSON tree from temp/IAI6/cancer.json ...
+c #nodes: 37
+c depth: 6
+saving DT to  ../bench/tree/cancer/IAI6/cancer.dt
+saving DT map to  ../bench/map/cancer/IAI6/cancer.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 87.78
+----------------------

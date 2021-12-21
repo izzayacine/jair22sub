@@ -1,0 +1,14 @@
+c #feats: 4
+c #samps: 1348
+c training time: 7.01
+load JSON tree from temp/IAI6/banknote.json ...
+c #nodes: 9
+c depth: 3
+saving DT to  ../bench/tree/banknote/IAI6/banknote.dt
+saving DT map to  ../bench/map/banknote/IAI6/banknote.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 67.04
+----------------------

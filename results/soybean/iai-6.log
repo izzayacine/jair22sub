@@ -1,0 +1,14 @@
+c #feats: 35
+c #samps: 623
+c training time: 7.42
+load JSON tree from temp/IAI6/soybean.json ...
+c #nodes: 63
+c depth: 6
+saving DT to  ../bench/tree/soybean/IAI6/soybean.dt
+saving DT map to  ../bench/map/soybean/IAI6/soybean.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 94.18
+Test accuracy: 88.80
+----------------------

@@ -1,0 +1,14 @@
+c #feats: 19
+c #samps: 1146
+c training time: 6.74
+load JSON tree from temp/IAI6/messidor.json ...
+c #nodes: 7
+c depth: 3
+saving DT to  ../bench/tree/messidor/IAI6/messidor.dt
+saving DT map to  ../bench/map/messidor/IAI6/messidor.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 50.87
+----------------------

@@ -1,0 +1,7 @@
+c nof paths: 11
+c redundant paths: 36%
+c non-redundant paths: 64%
+c redundant paths cover 13.11% instances
+c min redundancy: 50.00%
+c max redundancy: 50.00%
+c avg redundancy: 50.00%

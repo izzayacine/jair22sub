@@ -1,0 +1,14 @@
+path (humidity=normal > outlook=rain > windy=true) is redundant
+path (humidity=high > outlook=sunny) is irredundant
+path (humidity=high > [outlook=overcast|outlook=rain] > outlook=rain > windy=true) is redundant
+path (humidity=normal > outlook=rain > windy=false) is redundant
+path (humidity=normal > [outlook=overcast|outlook=sunny]) is irredundant
+path (humidity=high > [outlook=overcast|outlook=rain] > outlook=rain > windy=false) is redundant
+path (humidity=high > [outlook=overcast|outlook=rain] > outlook=overcast) is redundant
+c nof paths: 7
+c redundant paths: 71%
+c non-redundant paths: 29%
+c redundant paths cover 50.00% instances
+c min redundancy: 33.33%
+c max redundancy: 50.00%
+c avg redundancy: 36.67%

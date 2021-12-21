@@ -1,0 +1,11 @@
+path (Length=long) is irredundant
+path (Length=short > Thread=follow-up > Author=unknown) is redundant
+path (Length=short > Thread=new) is irredundant
+path (Length=short > Thread=follow-up > Author=known) is redundant
+c nof paths: 4
+c redundant paths: 50%
+c non-redundant paths: 50%
+c redundant paths cover 25.00% instances
+c min redundancy: 33.33%
+c max redundancy: 33.33%
+c avg redundancy: 33.33%

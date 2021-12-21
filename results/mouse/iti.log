@@ -1,0 +1,12 @@
+Leaves: 3, xtests: 1.62, instances: 45, accuracy: 75.000, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 5
+c #samps: 57
+saving data names to  ./iti/umass/data/mouse/names
+saving samples to  ./iti/umass/data/mouse/train.data
+c training time: 0.00
+load JSON tree from temp/ITI/mouse.json ...
+c #nodes: 5
+c depth: 2
+saving DT to  ../bench/tree/mouse/ITI/mouse.dt
+saving DT map to  ../bench/map/mouse/ITI/mouse.map
+saving test data to  ./iti/umass/data/mouse/test.data

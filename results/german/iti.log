@@ -1,0 +1,12 @@
+Leaves: 50, xtests: 5.72, instances: 800, accuracy: 72.500, cpu: 0.0100, transps: 0 (iti-fast)
+c #feats: 21
+c #samps: 1000
+saving data names to  ./iti/umass/data/german_data/names
+saving samples to  ./iti/umass/data/german_data/train.data
+c training time: 0.03
+load JSON tree from temp/ITI/german_data.json ...
+c #nodes: 99
+c depth: 10
+saving DT to  ../bench/tree/german_data/ITI/german_data.dt
+saving DT map to  ../bench/map/german_data/ITI/german_data.map
+saving test data to  ./iti/umass/data/german_data/test.data

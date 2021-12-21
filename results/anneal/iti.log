@@ -1,0 +1,12 @@
+Leaves: 16, xtests: 6.07, instances: 708, accuracy: 100.000, cpu: 0.0100, transps: 0 (iti-fast)
+c #feats: 38
+c #samps: 886
+saving data names to  ./iti/umass/data/anneal/names
+saving samples to  ./iti/umass/data/anneal/train.data
+c training time: 0.04
+load JSON tree from temp/ITI/anneal.json ...
+c #nodes: 31
+c depth: 9
+saving DT to  ../bench/tree/anneal/ITI/anneal.dt
+saving DT map to  ../bench/map/anneal/ITI/anneal.map
+saving test data to  ./iti/umass/data/anneal/test.data

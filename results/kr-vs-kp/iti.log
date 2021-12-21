@@ -1,0 +1,12 @@
+Leaves: 34, xtests: 4.54, instances: 2556, accuracy: 99.531, cpu: 0.0100, transps: 0 (iti-fast)
+c #feats: 36
+c #samps: 3196
+saving data names to  ./iti/umass/data/kr-vs-kp/names
+saving samples to  ./iti/umass/data/kr-vs-kp/train.data
+c training time: 0.08
+load JSON tree from temp/ITI/kr-vs-kp.json ...
+c #nodes: 67
+c depth: 13
+saving DT to  ../bench/tree/kr-vs-kp/ITI/kr-vs-kp.dt
+saving DT map to  ../bench/map/kr-vs-kp/ITI/kr-vs-kp.map
+saving test data to  ./iti/umass/data/kr-vs-kp/test.data

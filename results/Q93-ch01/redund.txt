@@ -1,0 +1,14 @@
+path (wage<=2.5 > working-hours<=36) is irredundant
+path (wage<=2.5 > working-hours>36 > contribution-health-plan=half) is redundant
+path ([wage>2.5|wage<=4|wage>4] > statutory-holidays>10) is irredundant
+path ([wage>2.5|wage<=4|wage>4] > statutory-holidays<=10 > wage>4) is redundant
+path (wage<=2.5 > working-hours>36 > contribution-health-plan=none) is irredundant
+path (wage<=2.5 > working-hours>36 > contribution-health-plan=full) is irredundant
+path ([wage>2.5|wage<=4|wage>4] > statutory-holidays<=10 > wage<=4) is irredundant
+c nof paths: 7
+c redundant paths: 28%
+c non-redundant paths: 72%
+c redundant paths cover 16.67% instances
+c min redundancy: 33.33%
+c max redundancy: 50.00%
+c avg redundancy: 41.67%

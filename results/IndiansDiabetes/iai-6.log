@@ -1,0 +1,14 @@
+c #feats: 8
+c #samps: 768
+c training time: 17.32
+load JSON tree from temp/IAI6/IndiansDiabetes.json ...
+c #nodes: 33
+c depth: 6
+saving DT to  ../bench/tree/IndiansDiabetes/IAI6/IndiansDiabetes.dt
+saving DT map to  ../bench/map/IndiansDiabetes/IAI6/IndiansDiabetes.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 67.53
+----------------------

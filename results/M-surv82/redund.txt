@@ -1,0 +1,12 @@
+path (x1=1 > x3=1) is redundant
+path (x1=2 > x3=1) is redundant
+path (x1=2 > x3=2 > x2=1) is redundant
+path (x1=1 > x3=2) is irredundant
+path (x1=2 > x3=2 > x2=2) is redundant
+c nof paths: 5
+c redundant paths: 80%
+c non-redundant paths: 20%
+c redundant paths cover 75.00% instances
+c min redundancy: 33.33%
+c max redundancy: 50.00%
+c avg redundancy: 41.67%

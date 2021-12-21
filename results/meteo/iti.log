@@ -1,0 +1,12 @@
+Leaves: 2, xtests: 1.00, instances: 11, accuracy: 33.333, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 4
+c #samps: 14
+saving data names to  ./iti/umass/data/meteo/names
+saving samples to  ./iti/umass/data/meteo/train.data
+c training time: 0.00
+load JSON tree from temp/ITI/meteo.json ...
+c #nodes: 3
+c depth: 1
+saving DT to  ../bench/tree/meteo/ITI/meteo.dt
+saving DT map to  ../bench/map/meteo/ITI/meteo.map
+saving test data to  ./iti/umass/data/meteo/test.data

@@ -1,0 +1,14 @@
+c #feats: 8
+c #samps: 209
+c training time: 5.78
+load JSON tree from temp/IAI6/biomed.json ...
+c #nodes: 9
+c depth: 3
+saving DT to  ../bench/tree/biomed/IAI6/biomed.dt
+saving DT map to  ../bench/map/biomed/IAI6/biomed.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 66.67
+----------------------

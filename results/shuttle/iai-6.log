@@ -1,0 +1,14 @@
+c #feats: 9
+c #samps: 58000
+c training time: 100.67
+load JSON tree from temp/IAI6/shuttle.json ...
+c #nodes: 63
+c depth: 6
+saving DT to  ../bench/tree/shuttle/IAI6/shuttle.dt
+saving DT map to  ../bench/map/shuttle/IAI6/shuttle.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 99.84
+----------------------

@@ -1,0 +1,14 @@
+c #feats: 30
+c #samps: 569
+c training time: 5.42
+load JSON tree from temp/IAI6/wdbc.json ...
+c #nodes: 7
+c depth: 2
+saving DT to  ../bench/tree/wdbc/IAI6/wdbc.dt
+saving DT map to  ../bench/map/wdbc/IAI6/wdbc.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 87.72
+----------------------

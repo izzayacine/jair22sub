@@ -1,0 +1,23 @@
+path (holding=sword > tie=yes) is irredundant
+path (holding=sword > tie=no > head=round) is redundant
+path (holding=sword > tie=no > [head=octagon|head=square] > body=square > smile=yes > jacket=red) is redundant
+path (holding=sword > tie=no > [head=octagon|head=square] > body=square > smile=no) is redundant
+path (holding=sword > tie=no > [head=octagon|head=square] > [body=octagon|body=round] > head=square) is redundant
+path ([holding=ballon|holding=flag] > jacket=yellow > smile=yes > tie=yes > head=round) is redundant
+path ([holding=ballon|holding=flag] > jacket=yellow > smile=no > body=round > tie=no > [head=octagon|head=square]) is redundant
+path ([holding=ballon|holding=flag] > jacket=yellow > smile=no > [body=octagon|body=square] > [head=octagon|head=square]) is redundant
+path ([holding=ballon|holding=flag] > [jacket=green|jacket=red|jacket=blue]) is irredundant
+path (holding=sword > tie=no > [head=octagon|head=square] > body=square > smile=yes > [jacket=green|jacket=yellow|jacket=blue]) is irredundant
+path (holding=sword > tie=no > [head=octagon|head=square] > [body=octagon|body=round] > head=octagon) is irredundant
+path ([holding=ballon|holding=flag] > jacket=yellow > smile=yes > tie=yes > [head=octagon|head=square]) is redundant
+path ([holding=ballon|holding=flag] > jacket=yellow > smile=yes > tie=no) is irredundant
+path ([holding=ballon|holding=flag] > jacket=yellow > smile=no > body=round > tie=yes) is irredundant
+path ([holding=ballon|holding=flag] > jacket=yellow > smile=no > body=round > tie=no > head=round) is redundant
+path ([holding=ballon|holding=flag] > jacket=yellow > smile=no > [body=octagon|body=square] > head=round) is redundant
+c nof paths: 16
+c redundant paths: 62%
+c non-redundant paths: 38%
+c redundant paths cover 22.69% instances
+c min redundancy: 20.00%
+c max redundancy: 66.67%
+c avg redundancy: 33.17%

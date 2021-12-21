@@ -1,0 +1,12 @@
+Leaves: 9, xtests: 4.36, instances: 74, accuracy: 78.947, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 4
+c #samps: 93
+saving data names to  ./iti/umass/data/hayes-roth/names
+saving samples to  ./iti/umass/data/hayes-roth/train.data
+c training time: 0.00
+load JSON tree from temp/ITI/hayes-roth.json ...
+c #nodes: 17
+c depth: 6
+saving DT to  ../bench/tree/hayes-roth/ITI/hayes-roth.dt
+saving DT map to  ../bench/map/hayes-roth/ITI/hayes-roth.map
+saving test data to  ./iti/umass/data/hayes-roth/test.data

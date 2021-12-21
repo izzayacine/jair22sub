@@ -1,0 +1,14 @@
+c #feats: 9
+c #samps: 1462
+c training time: 302.20
+load JSON tree from temp/IAI6/yeast.json ...
+c #nodes: 45
+c depth: 6
+saving DT to  ../bench/tree/yeast/IAI6/yeast.dt
+saving DT map to  ../bench/map/yeast/IAI6/yeast.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 97.78
+Test accuracy: 49.83
+----------------------

@@ -1,0 +1,14 @@
+c #feats: 6
+c #samps: 64
+c training time: 4.24
+load JSON tree from temp/IAI6/mux6.json ...
+c #nodes: 55
+c depth: 6
+saving DT to  ../bench/tree/mux6/IAI6/mux6.dt
+saving DT map to  ../bench/map/mux6/IAI6/mux6.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 61.54
+----------------------

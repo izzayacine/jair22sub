@@ -1,0 +1,12 @@
+Leaves: 36, xtests: 33.86, instances: 1078, accuracy: 54.074, cpu: 0.4500, transps: 0 (iti-fast)
+c #feats: 4
+c #samps: 1348
+saving data names to  ./iti/umass/data/banknote/names
+saving samples to  ./iti/umass/data/banknote/train.data
+c training time: 0.46
+load JSON tree from temp/ITI/banknote.json ...
+c #nodes: 71
+c depth: 35
+saving DT to  ../bench/tree/banknote/ITI/banknote.dt
+saving DT map to  ../bench/map/banknote/ITI/banknote.map
+saving test data to  ./iti/umass/data/banknote/test.data

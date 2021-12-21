@@ -1,0 +1,12 @@
+Leaves: 9, xtests: 4.29, instances: 292, accuracy: 95.946, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 34
+c #samps: 366
+saving data names to  ./iti/umass/data/dermatology/names
+saving samples to  ./iti/umass/data/dermatology/train.data
+c training time: 0.02
+load JSON tree from temp/ITI/dermatology.json ...
+c #nodes: 17
+c depth: 7
+saving DT to  ../bench/tree/dermatology/ITI/dermatology.dt
+saving DT map to  ../bench/map/dermatology/ITI/dermatology.map
+saving test data to  ./iti/umass/data/dermatology/test.data

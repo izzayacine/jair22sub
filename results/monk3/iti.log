@@ -1,0 +1,12 @@
+Leaves: 3, xtests: 1.64, instances: 97, accuracy: 92.000, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 6
+c #samps: 122
+saving data names to  ./iti/umass/data/monk3/names
+saving samples to  ./iti/umass/data/monk3/train.data
+c training time: 0.00
+load JSON tree from temp/ITI/monk3.json ...
+c #nodes: 5
+c depth: 2
+saving DT to  ../bench/tree/monk3/ITI/monk3.dt
+saving DT map to  ../bench/map/monk3/ITI/monk3.map
+saving test data to  ./iti/umass/data/monk3/test.data

@@ -1,0 +1,12 @@
+Leaves: 469, xtests: 14.58, instances: 8793, accuracy: 85.448, cpu: 0.3000, transps: 0 (iti-fast)
+c #feats: 16
+c #samps: 10992
+saving data names to  ./iti/umass/data/pendigits/names
+saving samples to  ./iti/umass/data/pendigits/train.data
+c training time: 0.43
+load JSON tree from temp/ITI/pendigits.json ...
+c #nodes: 937
+c depth: 38
+saving DT to  ../bench/tree/pendigits/ITI/pendigits.dt
+saving DT map to  ../bench/map/pendigits/ITI/pendigits.map
+saving test data to  ./iti/umass/data/pendigits/test.data

@@ -1,0 +1,14 @@
+c #feats: 7
+c #samps: 327
+c training time: 11.07
+load JSON tree from temp/IAI6/ecoli.json ...
+c #nodes: 45
+c depth: 6
+saving DT to  ../bench/tree/ecoli/IAI6/ecoli.dt
+saving DT map to  ../bench/map/ecoli/IAI6/ecoli.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 75.76
+----------------------

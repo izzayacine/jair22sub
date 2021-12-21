@@ -1,0 +1,14 @@
+c #feats: 32
+c #samps: 395
+c training time: 19.63
+load JSON tree from temp/IAI6/student-mat.json ...
+c #nodes: 109
+c depth: 6
+saving DT to  ../bench/tree/student-mat/IAI6/student-mat.dt
+saving DT map to  ../bench/map/student-mat/IAI6/student-mat.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 77.53
+Test accuracy: 35.44
+----------------------

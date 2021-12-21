@@ -1,0 +1,14 @@
+c #feats: 32
+c #samps: 180
+c training time: 5.82
+load JSON tree from temp/IAI6/backache.json ...
+c #nodes: 17
+c depth: 4
+saving DT to  ../bench/tree/backache/IAI6/backache.dt
+saving DT map to  ../bench/map/backache/IAI6/backache.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 72.22
+----------------------

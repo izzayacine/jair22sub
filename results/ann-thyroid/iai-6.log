@@ -1,0 +1,14 @@
+c #feats: 21
+c #samps: 7129
+c training time: 73.94
+load JSON tree from temp/IAI6/ann-thyroid.json ...
+c #nodes: 61
+c depth: 6
+saving DT to  ../bench/tree/ann-thyroid/IAI6/ann-thyroid.dt
+saving DT map to  ../bench/map/ann-thyroid/IAI6/ann-thyroid.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 99.95
+Test accuracy: 97.97
+----------------------

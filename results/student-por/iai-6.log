@@ -1,0 +1,14 @@
+c #feats: 32
+c #samps: 649
+c training time: 22.32
+load JSON tree from temp/IAI6/student-por.json ...
+c #nodes: 119
+c depth: 6
+saving DT to  ../bench/tree/student-por/IAI6/student-por.dt
+saving DT map to  ../bench/map/student-por/IAI6/student-por.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 72.45
+Test accuracy: 30.00
+----------------------

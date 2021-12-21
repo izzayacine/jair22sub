@@ -1,0 +1,14 @@
+c #feats: 16
+c #samps: 10992
+c training time: 901.94
+load JSON tree from temp/IAI6/pendigits.json ...
+c #nodes: 121
+c depth: 6
+saving DT to  ../bench/tree/pendigits/IAI6/pendigits.dt
+saving DT map to  ../bench/map/pendigits/IAI6/pendigits.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 93.26
+Test accuracy: 88.13
+----------------------

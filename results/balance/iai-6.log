@@ -1,0 +1,14 @@
+c #feats: 4
+c #samps: 625
+c training time: 6.75
+load JSON tree from temp/IAI6/balance.json ...
+c #nodes: 93
+c depth: 6
+saving DT to  ../bench/tree/balance/IAI6/balance.dt
+saving DT map to  ../bench/map/balance/IAI6/balance.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 89.40
+Test accuracy: 81.60
+----------------------

@@ -1,0 +1,12 @@
+Leaves: 268, xtests: 13.12, instances: 4496, accuracy: 86.922, cpu: 0.3000, transps: 0 (iti-fast)
+c #feats: 64
+c #samps: 5620
+saving data names to  ./iti/umass/data/optdigits/names
+saving samples to  ./iti/umass/data/optdigits/train.data
+c training time: 0.54
+load JSON tree from temp/ITI/optdigits.json ...
+c #nodes: 535
+c depth: 20
+saving DT to  ../bench/tree/optdigits/ITI/optdigits.dt
+saving DT map to  ../bench/map/optdigits/ITI/optdigits.map
+saving test data to  ./iti/umass/data/optdigits/test.data

@@ -1,0 +1,14 @@
+path ([jacket=green|jacket=yellow|jacket=blue] > [body=octagon|body=round] > [head=octagon|head=round] > head=octagon > body=octagon) is redundant
+path ([jacket=green|jacket=yellow|jacket=blue] > body=square > head=square) is redundant
+path (jacket=red) is irredundant
+path ([jacket=green|jacket=yellow|jacket=blue] > [body=octagon|body=round] > [head=octagon|head=round] > head=octagon > body=round) is redundant
+path ([jacket=green|jacket=yellow|jacket=blue] > [body=octagon|body=round] > [head=octagon|head=round] > head=round) is redundant
+path ([jacket=green|jacket=yellow|jacket=blue] > [body=octagon|body=round] > head=square) is irredundant
+path ([jacket=green|jacket=yellow|jacket=blue] > body=square > [head=octagon|head=round]) is irredundant
+c nof paths: 7
+c redundant paths: 57%
+c non-redundant paths: 43%
+c redundant paths cover 41.67% instances
+c min redundancy: 33.33%
+c max redundancy: 33.33%
+c avg redundancy: 33.33%

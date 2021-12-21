@@ -1,0 +1,12 @@
+Leaves: 9, xtests: 3.00, instances: 280, accuracy: 80.000, cpu: 0.0300, transps: 0 (iti-fast)
+c #feats: 34
+c #samps: 350
+saving data names to  ./iti/umass/data/ionosphere/names
+saving samples to  ./iti/umass/data/ionosphere/train.data
+c training time: 0.05
+load JSON tree from temp/ITI/ionosphere.json ...
+c #nodes: 17
+c depth: 5
+saving DT to  ../bench/tree/ionosphere/ITI/ionosphere.dt
+saving DT map to  ../bench/map/ionosphere/ITI/ionosphere.map
+saving test data to  ./iti/umass/data/ionosphere/test.data

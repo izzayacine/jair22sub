@@ -1,0 +1,12 @@
+Leaves: 11, xtests: 4.95, instances: 118, accuracy: 86.667, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 18
+c #samps: 148
+saving data names to  ./iti/umass/data/lymphography/names
+saving samples to  ./iti/umass/data/lymphography/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/lymphography.json ...
+c #nodes: 21
+c depth: 6
+saving DT to  ../bench/tree/lymphography/ITI/lymphography.dt
+saving DT map to  ../bench/map/lymphography/ITI/lymphography.map
+saving test data to  ./iti/umass/data/lymphography/test.data

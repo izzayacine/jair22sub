@@ -1,0 +1,12 @@
+Leaves: 7, xtests: 3.23, instances: 47, accuracy: 83.333, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 16
+c #samps: 59
+saving data names to  ./iti/umass/data/zoo/names
+saving samples to  ./iti/umass/data/zoo/train.data
+c training time: 0.00
+load JSON tree from temp/ITI/zoo.json ...
+c #nodes: 13
+c depth: 6
+saving DT to  ../bench/tree/zoo/ITI/zoo.dt
+saving DT map to  ../bench/map/zoo/ITI/zoo.map
+saving test data to  ./iti/umass/data/zoo/test.data

@@ -1,0 +1,12 @@
+Leaves: 34, xtests: 10.27, instances: 614, accuracy: 60.390, cpu: 0.0100, transps: 0 (iti-fast)
+c #feats: 8
+c #samps: 768
+saving data names to  ./iti/umass/data/IndiansDiabetes/names
+saving samples to  ./iti/umass/data/IndiansDiabetes/train.data
+c training time: 0.02
+load JSON tree from temp/ITI/IndiansDiabetes.json ...
+c #nodes: 67
+c depth: 21
+saving DT to  ../bench/tree/IndiansDiabetes/ITI/IndiansDiabetes.dt
+saving DT map to  ../bench/map/IndiansDiabetes/ITI/IndiansDiabetes.map
+saving test data to  ./iti/umass/data/IndiansDiabetes/test.data

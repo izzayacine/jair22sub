@@ -1,0 +1,17 @@
+path (texture=slightly-blurry > [sound=dull|sound=crisp]) is irredundant
+path (texture=clear > root=slightly-curly > color=dark > surface=soft) is irredundant
+path (texture=clear > root=straight) is irredundant
+path (texture=blurry > [color=green|color=light]) is irredundant
+path (texture=slightly-blurry > sound=muffled > umbilicus=hollow) is irredundant
+path (texture=slightly-blurry > sound=muffled > [umbilicus=slightly-hollow|umbilicus=flat]) is irredundant
+path (texture=clear > root=curly) is irredundant
+path (texture=clear > root=slightly-curly > [color=green|color=light]) is irredundant
+path (texture=clear > root=slightly-curly > color=dark > surface=hard) is redundant
+path (texture=blurry > color=dark) is irredundant
+c nof paths: 10
+c redundant paths: 10%
+c non-redundant paths: 90%
+c redundant paths cover 1.85% instances
+c min redundancy: 25.00%
+c max redundancy: 25.00%
+c avg redundancy: 25.00%

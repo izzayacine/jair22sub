@@ -1,0 +1,12 @@
+Leaves: 20, xtests: 3.79, instances: 2062, accuracy: 93.605, cpu: 0.0300, transps: 0 (iti-fast)
+c #feats: 18
+c #samps: 2578
+saving data names to  ./iti/umass/data/seismic_bumps/names
+saving samples to  ./iti/umass/data/seismic_bumps/train.data
+c training time: 0.07
+load JSON tree from temp/ITI/seismic_bumps.json ...
+c #nodes: 39
+c depth: 8
+saving DT to  ../bench/tree/seismic_bumps/ITI/seismic_bumps.dt
+saving DT map to  ../bench/map/seismic_bumps/ITI/seismic_bumps.map
+saving test data to  ./iti/umass/data/seismic_bumps/test.data

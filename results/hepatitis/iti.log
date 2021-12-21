@@ -1,0 +1,12 @@
+Leaves: 6, xtests: 2.43, instances: 124, accuracy: 80.645, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 19
+c #samps: 155
+saving data names to  ./iti/umass/data/hepatitis/names
+saving samples to  ./iti/umass/data/hepatitis/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/hepatitis.json ...
+c #nodes: 11
+c depth: 3
+saving DT to  ../bench/tree/hepatitis/ITI/hepatitis.dt
+saving DT map to  ../bench/map/hepatitis/ITI/hepatitis.map
+saving test data to  ./iti/umass/data/hepatitis/test.data

@@ -1,0 +1,14 @@
+c #feats: 41
+c #samps: 145585
+c training time: 11120.78
+load JSON tree from temp/IAI6/kddcup.json ...
+c #nodes: 91
+c depth: 6
+saving DT to  ../bench/tree/kddcup/IAI6/kddcup.dt
+saving DT map to  ../bench/map/kddcup/IAI6/kddcup.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 99.88
+Test accuracy: 99.65
+----------------------

@@ -1,0 +1,14 @@
+c #feats: 19
+c #samps: 155
+c training time: 6.12
+load JSON tree from temp/IAI6/hepatitis.json ...
+c #nodes: 17
+c depth: 5
+saving DT to  ../bench/tree/hepatitis/IAI6/hepatitis.dt
+saving DT map to  ../bench/map/hepatitis/IAI6/hepatitis.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 77.42
+----------------------

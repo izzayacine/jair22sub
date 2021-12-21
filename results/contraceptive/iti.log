@@ -1,0 +1,12 @@
+Leaves: 193, xtests: 9.32, instances: 1140, accuracy: 48.772, cpu: 0.0100, transps: 0 (iti-fast)
+c #feats: 9
+c #samps: 1425
+saving data names to  ./iti/umass/data/contraceptive/names
+saving samples to  ./iti/umass/data/contraceptive/train.data
+c training time: 0.03
+load JSON tree from temp/ITI/contraceptive.json ...
+c #nodes: 385
+c depth: 17
+saving DT to  ../bench/tree/contraceptive/ITI/contraceptive.dt
+saving DT map to  ../bench/map/contraceptive/ITI/contraceptive.map
+saving test data to  ./iti/umass/data/contraceptive/test.data

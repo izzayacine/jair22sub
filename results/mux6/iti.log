@@ -1,0 +1,12 @@
+Leaves: 8, xtests: 2.94, instances: 51, accuracy: 46.154, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 6
+c #samps: 64
+saving data names to  ./iti/umass/data/mux6/names
+saving samples to  ./iti/umass/data/mux6/train.data
+c training time: 0.00
+load JSON tree from temp/ITI/mux6.json ...
+c #nodes: 15
+c depth: 4
+saving DT to  ../bench/tree/mux6/ITI/mux6.dt
+saving DT map to  ../bench/map/mux6/ITI/mux6.map
+saving test data to  ./iti/umass/data/mux6/test.data

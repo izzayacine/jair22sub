@@ -1,0 +1,12 @@
+Leaves: 4, xtests: 2.30, instances: 376, accuracy: 100.000, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 5
+c #samps: 470
+saving data names to  ./iti/umass/data/irish/names
+saving samples to  ./iti/umass/data/irish/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/irish.json ...
+c #nodes: 7
+c depth: 3
+saving DT to  ../bench/tree/irish/ITI/irish.dt
+saving DT map to  ../bench/map/irish/ITI/irish.map
+saving test data to  ./iti/umass/data/irish/test.data

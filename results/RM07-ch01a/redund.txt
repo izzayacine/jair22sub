@@ -1,0 +1,12 @@
+path (CPT=Type2 > BTF=Negative) is irredundant
+path (CPT=Type1 > XRF=Negative > CTF=Negative) is irredundant
+path (CPT=Type2 > BTF=Positive) is irredundant
+path (CPT=Type1 > XRF=Negative > CTF=Positive) is redundant
+path (CPT=Type1 > XRF=Positive) is irredundant
+c nof paths: 5
+c redundant paths: 20%
+c non-redundant paths: 80%
+c redundant paths cover 12.50% instances
+c min redundancy: 33.33%
+c max redundancy: 33.33%
+c avg redundancy: 33.33%

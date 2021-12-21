@@ -1,0 +1,14 @@
+c #feats: 19
+c #samps: 36293
+c training time: 84.50
+load JSON tree from temp/IAI6/bank.json ...
+c #nodes: 113
+c depth: 6
+saving DT to  ../bench/tree/bank/IAI6/bank.dt
+saving DT map to  ../bench/map/bank/IAI6/bank.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 89.65
+Test accuracy: 88.35
+----------------------

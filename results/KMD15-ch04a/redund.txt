@@ -1,0 +1,11 @@
+path ([evaluation<2.25|evaluation>=2.25|evaluation<4.175] > stream=True > evaluation<2.25) is irredundant
+path ([evaluation<2.25|evaluation>=2.25|evaluation<4.175] > stream=True > evaluation>=2.25) is redundant
+path ([evaluation<2.25|evaluation>=2.25|evaluation<4.175] > stream=False) is irredundant
+path (evaluation>=4.175) is irredundant
+c nof paths: 4
+c redundant paths: 25%
+c non-redundant paths: 75%
+c redundant paths cover 12.50% instances
+c min redundancy: 50.00%
+c max redundancy: 50.00%
+c avg redundancy: 50.00%

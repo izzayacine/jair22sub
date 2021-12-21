@@ -1,0 +1,12 @@
+Leaves: 25, xtests: 10.03, instances: 2968, accuracy: 96.900, cpu: 0.0300, transps: 0 (iti-fast)
+c #feats: 29
+c #samps: 3710
+saving data names to  ./iti/umass/data/allhyper/names
+saving samples to  ./iti/umass/data/allhyper/train.data
+c training time: 0.12
+load JSON tree from temp/ITI/allhyper.json ...
+c #nodes: 49
+c depth: 14
+saving DT to  ../bench/tree/allhyper/ITI/allhyper.dt
+saving DT map to  ../bench/map/allhyper/ITI/allhyper.map
+saving test data to  ./iti/umass/data/allhyper/test.data

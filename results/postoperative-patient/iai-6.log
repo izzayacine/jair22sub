@@ -1,0 +1,14 @@
+c #feats: 8
+c #samps: 78
+c training time: 4.31
+load JSON tree from temp/IAI6/postoperative-patient-data.json ...
+c #nodes: 43
+c depth: 6
+saving DT to  ../bench/tree/postoperative-patient-data/IAI6/postoperative-patient-data.dt
+saving DT map to  ../bench/map/postoperative-patient-data/IAI6/postoperative-patient-data.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 93.55
+Test accuracy: 50.00
+----------------------

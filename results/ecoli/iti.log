@@ -1,0 +1,12 @@
+Leaves: 55, xtests: 34.53, instances: 261, accuracy: 59.091, cpu: 0.0100, transps: 0 (iti-fast)
+c #feats: 7
+c #samps: 327
+saving data names to  ./iti/umass/data/ecoli/names
+saving samples to  ./iti/umass/data/ecoli/train.data
+c training time: 0.02
+load JSON tree from temp/ITI/ecoli.json ...
+c #nodes: 109
+c depth: 53
+saving DT to  ../bench/tree/ecoli/ITI/ecoli.dt
+saving DT map to  ../bench/map/ecoli/ITI/ecoli.map
+saving test data to  ./iti/umass/data/ecoli/test.data

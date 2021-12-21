@@ -1,0 +1,14 @@
+c #feats: 9
+c #samps: 1425
+c training time: 13.07
+load JSON tree from temp/IAI6/contraceptive.json ...
+c #nodes: 99
+c depth: 6
+saving DT to  ../bench/tree/contraceptive/IAI6/contraceptive.dt
+saving DT map to  ../bench/map/contraceptive/IAI6/contraceptive.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 69.82
+Test accuracy: 49.12
+----------------------

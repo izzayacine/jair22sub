@@ -1,0 +1,12 @@
+Leaves: 26, xtests: 7.68, instances: 272, accuracy: 52.941, cpu: 0.0100, transps: 0 (iti-fast)
+c #feats: 14
+c #samps: 340
+saving data names to  ./iti/umass/data/schizo/names
+saving samples to  ./iti/umass/data/schizo/train.data
+c training time: 0.03
+load JSON tree from temp/ITI/schizo.json ...
+c #nodes: 51
+c depth: 13
+saving DT to  ../bench/tree/schizo/ITI/schizo.dt
+saving DT map to  ../bench/map/schizo/ITI/schizo.map
+saving test data to  ./iti/umass/data/schizo/test.data

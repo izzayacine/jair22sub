@@ -1,0 +1,12 @@
+Leaves: 10, xtests: 3.25, instances: 234, accuracy: 77.966, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 13
+c #samps: 293
+saving data names to  ./iti/umass/data/hungarian/names
+saving samples to  ./iti/umass/data/hungarian/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/hungarian.json ...
+c #nodes: 19
+c depth: 4
+saving DT to  ../bench/tree/hungarian/ITI/hungarian.dt
+saving DT map to  ../bench/map/hungarian/ITI/hungarian.map
+saving test data to  ./iti/umass/data/hungarian/test.data

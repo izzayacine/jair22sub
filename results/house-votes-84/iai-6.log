@@ -1,0 +1,14 @@
+c #feats: 16
+c #samps: 298
+c training time: 5.78
+load JSON tree from temp/IAI6/house-votes-84.json ...
+c #nodes: 49
+c depth: 6
+saving DT to  ../bench/tree/house-votes-84/IAI6/house-votes-84.dt
+saving DT map to  ../bench/map/house-votes-84/IAI6/house-votes-84.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 99.58
+Test accuracy: 91.67
+----------------------

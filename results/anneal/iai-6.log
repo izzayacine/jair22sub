@@ -1,0 +1,14 @@
+c #feats: 38
+c #samps: 886
+c training time: 10.77
+load JSON tree from temp/IAI6/anneal.json ...
+c #nodes: 29
+c depth: 6
+saving DT to  ../bench/tree/anneal/IAI6/anneal.dt
+saving DT map to  ../bench/map/anneal/IAI6/anneal.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 99.44
+----------------------

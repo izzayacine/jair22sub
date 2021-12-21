@@ -1,0 +1,14 @@
+c #feats: 21
+c #samps: 1000
+c training time: 47.63
+load JSON tree from temp/IAI6/german_data.json ...
+c #nodes: 25
+c depth: 6
+saving DT to  ../bench/tree/german_data/IAI6/german_data.dt
+saving DT map to  ../bench/map/german_data/IAI6/german_data.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 61.50
+----------------------

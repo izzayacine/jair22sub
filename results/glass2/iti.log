@@ -1,0 +1,12 @@
+Leaves: 8, xtests: 6.09, instances: 129, accuracy: 51.515, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 9
+c #samps: 162
+saving data names to  ./iti/umass/data/glass2/names
+saving samples to  ./iti/umass/data/glass2/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/glass2.json ...
+c #nodes: 15
+c depth: 7
+saving DT to  ../bench/tree/glass2/ITI/glass2.dt
+saving DT map to  ../bench/map/glass2/ITI/glass2.map
+saving test data to  ./iti/umass/data/glass2/test.data

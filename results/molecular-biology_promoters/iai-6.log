@@ -1,0 +1,14 @@
+c #feats: 58
+c #samps: 106
+c training time: 5.70
+load JSON tree from temp/IAI6/molecular-biology_promoters.json ...
+c #nodes: 17
+c depth: 6
+saving DT to  ../bench/tree/molecular-biology_promoters/IAI6/molecular-biology_promoters.dt
+saving DT map to  ../bench/map/molecular-biology_promoters/IAI6/molecular-biology_promoters.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 86.36
+----------------------

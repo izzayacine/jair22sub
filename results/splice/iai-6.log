@@ -1,0 +1,14 @@
+c #feats: 2
+c #samps: 3178
+c training time: 5.93
+load JSON tree from temp/IAI6/splice.json ...
+c #nodes: 7
+c depth: 3
+saving DT to  ../bench/tree/splice/IAI6/splice.dt
+saving DT map to  ../bench/map/splice/IAI6/splice.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 50.00
+----------------------

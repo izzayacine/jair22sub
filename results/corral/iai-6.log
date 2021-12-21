@@ -1,0 +1,14 @@
+c #feats: 6
+c #samps: 64
+c training time: 5.59
+load JSON tree from temp/IAI6/corral.json ...
+c #nodes: 19
+c depth: 6
+saving DT to  ../bench/tree/corral/IAI6/corral.dt
+saving DT map to  ../bench/map/corral/IAI6/corral.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 92.31
+----------------------

@@ -1,0 +1,14 @@
+c #feats: 29
+c #samps: 3710
+c training time: 25.16
+load JSON tree from temp/IAI6/allhyper.json ...
+c #nodes: 47
+c depth: 6
+saving DT to  ../bench/tree/allhyper/IAI6/allhyper.dt
+saving DT map to  ../bench/map/allhyper/IAI6/allhyper.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 95.96
+----------------------

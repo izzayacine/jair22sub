@@ -1,0 +1,12 @@
+Leaves: 29, xtests: 20.38, instances: 168, accuracy: 23.810, cpu: 0.0400, transps: 0 (iti-fast)
+c #feats: 19
+c #samps: 210
+saving data names to  ./iti/umass/data/segmentation/names
+saving samples to  ./iti/umass/data/segmentation/train.data
+c training time: 0.06
+load JSON tree from temp/ITI/segmentation.json ...
+c #nodes: 57
+c depth: 27
+saving DT to  ../bench/tree/segmentation/ITI/segmentation.dt
+saving DT map to  ../bench/map/segmentation/ITI/segmentation.map
+saving test data to  ./iti/umass/data/segmentation/test.data

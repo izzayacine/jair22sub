@@ -1,0 +1,12 @@
+Leaves: 5, xtests: 2.15, instances: 84, accuracy: 81.818, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 58
+c #samps: 106
+saving data names to  ./iti/umass/data/promoters/names
+saving samples to  ./iti/umass/data/promoters/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/promoters.json ...
+c #nodes: 9
+c depth: 3
+saving DT to  ../bench/tree/promoters/ITI/promoters.dt
+saving DT map to  ../bench/map/promoters/ITI/promoters.map
+saving test data to  ./iti/umass/data/promoters/test.data

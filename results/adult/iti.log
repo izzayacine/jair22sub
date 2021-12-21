@@ -1,0 +1,12 @@
+Leaves: 255, xtests: 8.80, instances: 4848, accuracy: 73.702, cpu: 0.0300, transps: 0 (iti-fast)
+c #feats: 12
+c #samps: 6061
+saving data names to  ./iti/umass/data/adult_data/names
+saving samples to  ./iti/umass/data/adult_data/train.data
+c training time: 0.12
+load JSON tree from temp/ITI/adult_data.json ...
+c #nodes: 509
+c depth: 17
+saving DT to  ../bench/tree/adult_data/ITI/adult_data.dt
+saving DT map to  ../bench/map/adult_data/ITI/adult_data.map
+saving test data to  ./iti/umass/data/adult_data/test.data

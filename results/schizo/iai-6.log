@@ -1,0 +1,14 @@
+c #feats: 14
+c #samps: 340
+c training time: 5.73
+load JSON tree from temp/IAI6/schizo.json ...
+c #nodes: 17
+c depth: 6
+saving DT to  ../bench/tree/schizo/IAI6/schizo.dt
+saving DT map to  ../bench/map/schizo/IAI6/schizo.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 55.88
+----------------------

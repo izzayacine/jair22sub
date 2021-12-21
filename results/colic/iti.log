@@ -1,0 +1,12 @@
+Leaves: 9, xtests: 2.84, instances: 285, accuracy: 80.556, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 22
+c #samps: 357
+saving data names to  ./iti/umass/data/colic/names
+saving samples to  ./iti/umass/data/colic/train.data
+c training time: 0.02
+load JSON tree from temp/ITI/colic.json ...
+c #nodes: 17
+c depth: 4
+saving DT to  ../bench/tree/colic/ITI/colic.dt
+saving DT map to  ../bench/map/colic/ITI/colic.map
+saving test data to  ./iti/umass/data/colic/test.data

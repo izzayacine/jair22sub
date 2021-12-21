@@ -1,0 +1,14 @@
+c #feats: 5
+c #samps: 110
+c training time: 5.15
+load JSON tree from temp/IAI6/tae.json ...
+c #nodes: 43
+c depth: 6
+saving DT to  ../bench/tree/tae/IAI6/tae.dt
+saving DT map to  ../bench/map/tae/IAI6/tae.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 95.45
+Test accuracy: 40.91
+----------------------

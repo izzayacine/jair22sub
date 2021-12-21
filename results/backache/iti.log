@@ -1,0 +1,12 @@
+Leaves: 5, xtests: 2.10, instances: 144, accuracy: 91.667, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 32
+c #samps: 180
+saving data names to  ./iti/umass/data/backache/names
+saving samples to  ./iti/umass/data/backache/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/backache.json ...
+c #nodes: 9
+c depth: 3
+saving DT to  ../bench/tree/backache/ITI/backache.dt
+saving DT map to  ../bench/map/backache/ITI/backache.map
+saving test data to  ./iti/umass/data/backache/test.data

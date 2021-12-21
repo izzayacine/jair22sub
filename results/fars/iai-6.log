@@ -1,0 +1,14 @@
+c #feats: 29
+c #samps: 93004
+c training time: 307.78
+load JSON tree from temp/IAI6/fars.json ...
+c #nodes: 75
+c depth: 6
+saving DT to  ../bench/tree/fars/IAI6/fars.dt
+saving DT map to  ../bench/map/fars/IAI6/fars.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 80.26
+Test accuracy: 79.37
+----------------------

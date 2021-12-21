@@ -1,0 +1,14 @@
+c #feats: 7
+c #samps: 106
+c training time: 6.10
+load JSON tree from temp/IAI6/appendicitis.json ...
+c #nodes: 7
+c depth: 2
+saving DT to  ../bench/tree/appendicitis/IAI6/appendicitis.dt
+saving DT map to  ../bench/map/appendicitis/IAI6/appendicitis.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 68.18
+----------------------

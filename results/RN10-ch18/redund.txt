@@ -1,0 +1,15 @@
+path (Patrons=None) is irredundant
+path (Patrons=Full > Hungry=No) is irredundant
+path (Patrons=Full > Hungry=Yes > Type=Italian) is redundant
+path (Patrons=Full > Hungry=Yes > Type=Thai > Fri/Sat=No) is redundant
+path (Patrons=Some) is irredundant
+path (Patrons=Full > Hungry=Yes > Type=French) is irredundant
+path (Patrons=Full > Hungry=Yes > Type=Thai > Fri/Sat=Yes) is irredundant
+path (Patrons=Full > Hungry=Yes > Type=Burger) is irredundant
+c nof paths: 8
+c redundant paths: 25%
+c non-redundant paths: 75%
+c redundant paths cover 6.25% instances
+c min redundancy: 25.00%
+c max redundancy: 33.33%
+c avg redundancy: 29.17%

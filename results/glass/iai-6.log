@@ -1,0 +1,14 @@
+c #feats: 9
+c #samps: 204
+c training time: 6.43
+load JSON tree from temp/IAI6/glass.json ...
+c #nodes: 35
+c depth: 6
+saving DT to  ../bench/tree/glass/IAI6/glass.dt
+saving DT map to  ../bench/map/glass/IAI6/glass.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 53.66
+----------------------

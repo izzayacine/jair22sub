@@ -1,0 +1,14 @@
+c #feats: 13
+c #samps: 302
+c training time: 6.94
+load JSON tree from temp/IAI6/heart-c.json ...
+c #nodes: 43
+c depth: 6
+saving DT to  ../bench/tree/heart-c/IAI6/heart-c.dt
+saving DT map to  ../bench/map/heart-c/IAI6/heart-c.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 65.57
+----------------------

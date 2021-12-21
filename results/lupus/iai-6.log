@@ -1,0 +1,14 @@
+c #feats: 3
+c #samps: 87
+c training time: 5.51
+load JSON tree from temp/IAI6/lupus.json ...
+c #nodes: 7
+c depth: 2
+saving DT to  ../bench/tree/lupus/IAI6/lupus.dt
+saving DT map to  ../bench/map/lupus/IAI6/lupus.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 98.55
+Test accuracy: 44.44
+----------------------

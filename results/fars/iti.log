@@ -1,0 +1,12 @@
+Leaves: 4985, xtests: 13.84, instances: 74403, accuracy: 76.770, cpu: 1.4400, transps: 0 (iti-fast)
+c #feats: 29
+c #samps: 93004
+saving data names to  ./iti/umass/data/fars/names
+saving samples to  ./iti/umass/data/fars/train.data
+c training time: 3.05
+load JSON tree from temp/ITI/fars.json ...
+c #nodes: 9969
+c depth: 60
+saving DT to  ../bench/tree/fars/ITI/fars.dt
+saving DT map to  ../bench/map/fars/ITI/fars.map
+saving test data to  ./iti/umass/data/fars/test.data

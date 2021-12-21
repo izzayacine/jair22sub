@@ -1,0 +1,14 @@
+c #feats: 4
+c #samps: 14
+c training time: 5.58
+load JSON tree from temp/IAI6/meteo.json ...
+c #nodes: 13
+c depth: 5
+saving DT to  ../bench/tree/meteo/IAI6/meteo.dt
+saving DT map to  ../bench/map/meteo/IAI6/meteo.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 33.33
+----------------------

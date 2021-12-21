@@ -1,0 +1,12 @@
+Leaves: 80, xtests: 4.78, instances: 46400, accuracy: 99.784, cpu: 0.1300, transps: 0 (iti-fast)
+c #feats: 9
+c #samps: 58000
+saving data names to  ./iti/umass/data/shuttle/names
+saving samples to  ./iti/umass/data/shuttle/train.data
+c training time: 0.61
+load JSON tree from temp/ITI/shuttle.json ...
+c #nodes: 159
+c depth: 23
+saving DT to  ../bench/tree/shuttle/ITI/shuttle.dt
+saving DT map to  ../bench/map/shuttle/ITI/shuttle.map
+saving test data to  ./iti/umass/data/shuttle/test.data

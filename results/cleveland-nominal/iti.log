@@ -1,0 +1,12 @@
+Leaves: 33, xtests: 4.90, instances: 149, accuracy: 31.579, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 7
+c #samps: 187
+saving data names to  ./iti/umass/data/cleveland-nominal/names
+saving samples to  ./iti/umass/data/cleveland-nominal/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/cleveland-nominal.json ...
+c #nodes: 65
+c depth: 7
+saving DT to  ../bench/tree/cleveland-nominal/ITI/cleveland-nominal.dt
+saving DT map to  ../bench/map/cleveland-nominal/ITI/cleveland-nominal.map
+saving test data to  ./iti/umass/data/cleveland-nominal/test.data

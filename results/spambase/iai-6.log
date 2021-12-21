@@ -1,0 +1,14 @@
+c #feats: 57
+c #samps: 4210
+c training time: 854.58
+load JSON tree from temp/IAI6/spambase.json ...
+c #nodes: 63
+c depth: 6
+saving DT to  ../bench/tree/spambase/IAI6/spambase.dt
+saving DT map to  ../bench/map/spambase/IAI6/spambase.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 99.26
+Test accuracy: 75.53
+----------------------

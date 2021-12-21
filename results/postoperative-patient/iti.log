@@ -1,0 +1,12 @@
+Leaves: 8, xtests: 3.31, instances: 62, accuracy: 56.250, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 8
+c #samps: 78
+saving data names to  ./iti/umass/data/postoperative-patient-data/names
+saving samples to  ./iti/umass/data/postoperative-patient-data/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/postoperative-patient-data.json ...
+c #nodes: 15
+c depth: 6
+saving DT to  ../bench/tree/postoperative-patient-data/ITI/postoperative-patient-data.dt
+saving DT map to  ../bench/map/postoperative-patient-data/ITI/postoperative-patient-data.map
+saving test data to  ./iti/umass/data/postoperative-patient-data/test.data

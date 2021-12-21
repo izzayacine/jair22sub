@@ -1,0 +1,14 @@
+c #feats: 13
+c #samps: 270
+c training time: 6.50
+load JSON tree from temp/IAI6/heart-statlog.json ...
+c #nodes: 33
+c depth: 6
+saving DT to  ../bench/tree/heart-statlog/IAI6/heart-statlog.dt
+saving DT map to  ../bench/map/heart-statlog/IAI6/heart-statlog.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 55.56
+----------------------

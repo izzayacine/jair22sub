@@ -1,0 +1,14 @@
+c #feats: 18
+c #samps: 148
+c training time: 5.95
+load JSON tree from temp/IAI6/lymphography.json ...
+c #nodes: 61
+c depth: 6
+saving DT to  ../bench/tree/lymphography/IAI6/lymphography.dt
+saving DT map to  ../bench/map/lymphography/IAI6/lymphography.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 76.67
+----------------------

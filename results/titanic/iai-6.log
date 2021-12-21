@@ -1,0 +1,14 @@
+c #feats: 3
+c #samps: 24
+c training time: 4.19
+load JSON tree from temp/IAI6/titanic.json ...
+c #nodes: 5
+c depth: 2
+saving DT to  ../bench/tree/titanic/IAI6/titanic.dt
+saving DT map to  ../bench/map/titanic/IAI6/titanic.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 63.16
+Test accuracy: 40.00
+----------------------

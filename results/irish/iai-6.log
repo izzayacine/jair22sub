@@ -1,0 +1,14 @@
+c #feats: 5
+c #samps: 470
+c training time: 5.92
+load JSON tree from temp/IAI6/irish.json ...
+c #nodes: 13
+c depth: 4
+saving DT to  ../bench/tree/irish/IAI6/irish.dt
+saving DT map to  ../bench/map/irish/IAI6/irish.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 97.87
+----------------------

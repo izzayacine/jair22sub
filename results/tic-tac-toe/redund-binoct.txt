@@ -1,0 +1,15 @@
+path (top_left=x > midle_midle=x > bottom_right=o) is redundant
+path (top_left=x > midle_midle=x > bottom_right=x) is redundant
+path (top_left=x > midle_midle=o > top_right=x) is redundant
+path (top_left=o > bottom_right=o > midle_midle=x) is redundant
+path (top_left=o > bottom_right=x > top_right=x) is redundant
+path (top_left=x > midle_midle=o > top_right=o) is redundant
+path (top_left=o > bottom_right=o > midle_midle=o) is irredundant
+path (top_left=o > bottom_right=x > top_right=o) is irredundant
+c nof paths: 8
+c redundant paths: 75%
+c non-redundant paths: 25%
+c redundant paths cover 75.00% instances
+c min redundancy: 33.33%
+c max redundancy: 33.33%
+c avg redundancy: 33.33%

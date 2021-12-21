@@ -1,0 +1,14 @@
+c #feats: 3
+c #samps: 289
+c training time: 7.20
+load JSON tree from temp/IAI6/haberman.json ...
+c #nodes: 55
+c depth: 6
+saving DT to  ../bench/tree/haberman/IAI6/haberman.dt
+saving DT map to  ../bench/map/haberman/IAI6/haberman.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 95.67
+Test accuracy: 58.62
+----------------------

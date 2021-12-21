@@ -1,0 +1,14 @@
+c #feats: 15
+c #samps: 228
+c training time: 4.52
+load JSON tree from temp/IAI6/primary-tumor.json ...
+c #nodes: 55
+c depth: 6
+saving DT to  ../bench/tree/primary-tumor/IAI6/primary-tumor.dt
+saving DT map to  ../bench/map/primary-tumor/IAI6/primary-tumor.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 88.46
+Test accuracy: 71.74
+----------------------

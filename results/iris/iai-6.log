@@ -1,0 +1,14 @@
+c #feats: 4
+c #samps: 149
+c training time: 5.71
+load JSON tree from temp/IAI6/iris.json ...
+c #nodes: 23
+c depth: 5
+saving DT to  ../bench/tree/iris/IAI6/iris.dt
+saving DT map to  ../bench/map/iris/IAI6/iris.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 90.00
+----------------------

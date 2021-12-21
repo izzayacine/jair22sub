@@ -1,0 +1,14 @@
+c #feats: 6
+c #samps: 341
+c training time: 9.08
+load JSON tree from temp/IAI6/bupa.json ...
+c #nodes: 47
+c depth: 6
+saving DT to  ../bench/tree/bupa/IAI6/bupa.dt
+saving DT map to  ../bench/map/bupa/IAI6/bupa.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 62.32
+----------------------

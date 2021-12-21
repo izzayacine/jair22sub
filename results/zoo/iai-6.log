@@ -1,0 +1,14 @@
+c #feats: 16
+c #samps: 59
+c training time: 4.26
+load JSON tree from temp/IAI6/zoo.json ...
+c #nodes: 23
+c depth: 6
+saving DT to  ../bench/tree/zoo/IAI6/zoo.dt
+saving DT map to  ../bench/map/zoo/IAI6/zoo.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 100.00
+Test accuracy: 91.67
+----------------------

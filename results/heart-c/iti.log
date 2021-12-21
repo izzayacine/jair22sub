@@ -1,0 +1,12 @@
+Leaves: 8, xtests: 2.77, instances: 241, accuracy: 75.410, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 13
+c #samps: 302
+saving data names to  ./iti/umass/data/heart-c/names
+saving samples to  ./iti/umass/data/heart-c/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/heart-c.json ...
+c #nodes: 15
+c depth: 4
+saving DT to  ../bench/tree/heart-c/ITI/heart-c.dt
+saving DT map to  ../bench/map/heart-c/ITI/heart-c.map
+saving test data to  ./iti/umass/data/heart-c/test.data

@@ -1,0 +1,14 @@
+c #feats: 6
+c #samps: 122
+c training time: 5.55
+load JSON tree from temp/IAI6/monk3.json ...
+c #nodes: 35
+c depth: 6
+saving DT to  ../bench/tree/monk3/IAI6/monk3.dt
+saving DT map to  ../bench/map/monk3/IAI6/monk3.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 98.97
+Test accuracy: 80.00
+----------------------

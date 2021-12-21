@@ -1,0 +1,14 @@
+c #feats: 12
+c #samps: 6061
+c training time: 17.99
+load JSON tree from temp/IAI6/adult_data.json ...
+c #nodes: 83
+c depth: 6
+saving DT to  ../bench/tree/adult_data/IAI6/adult_data.dt
+saving DT map to  ../bench/map/adult_data/IAI6/adult_data.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 81.11
+Test accuracy: 78.24
+----------------------

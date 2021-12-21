@@ -1,0 +1,14 @@
+c #feats: 36
+c #samps: 3196
+c training time: 9.48
+load JSON tree from temp/IAI6/kr-vs-kp.json ...
+c #nodes: 49
+c depth: 6
+saving DT to  ../bench/tree/kr-vs-kp/IAI6/kr-vs-kp.dt
+saving DT map to  ../bench/map/kr-vs-kp/IAI6/kr-vs-kp.map
+c maxdepth: 6
+----------------------
+Initial accuracy:
+Train accuracy: 96.79
+Test accuracy: 96.25
+----------------------

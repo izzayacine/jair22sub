@@ -1,0 +1,12 @@
+Leaves: 11, xtests: 8.99, instances: 86, accuracy: 36.364, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 7
+c #samps: 108
+saving data names to  ./iti/umass/data/cloud/names
+saving samples to  ./iti/umass/data/cloud/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/cloud.json ...
+c #nodes: 21
+c depth: 10
+saving DT to  ../bench/tree/cloud/ITI/cloud.dt
+saving DT map to  ../bench/map/cloud/ITI/cloud.map
+saving test data to  ./iti/umass/data/cloud/test.data

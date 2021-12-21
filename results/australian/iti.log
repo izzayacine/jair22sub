@@ -1,0 +1,12 @@
+Leaves: 17, xtests: 4.05, instances: 552, accuracy: 82.609, cpu: 0.0100, transps: 0 (iti-fast)
+c #feats: 14
+c #samps: 690
+saving data names to  ./iti/umass/data/australian/names
+saving samples to  ./iti/umass/data/australian/train.data
+c training time: 0.02
+load JSON tree from temp/ITI/australian.json ...
+c #nodes: 33
+c depth: 7
+saving DT to  ../bench/tree/australian/ITI/australian.dt
+saving DT map to  ../bench/map/australian/ITI/australian.map
+saving test data to  ./iti/umass/data/australian/test.data

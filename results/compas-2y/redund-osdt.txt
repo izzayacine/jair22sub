@@ -1,0 +1,12 @@
+path (priors>3) is irredundant
+path ([priors<2|priors=2|priors=3] > age<26 > juvenile_crimes=True > [priors=2|priors=3]) is redundant
+path ([priors<2|priors=2|priors=3] > age<26 > juvenile_crimes=False) is redundant
+path ([priors<2|priors=2|priors=3] > age<26 > juvenile_crimes=True > priors<2) is redundant
+path ([priors<2|priors=2|priors=3] > age>=26) is irredundant
+c nof paths: 5
+c redundant paths: 60%
+c non-redundant paths: 40%
+c redundant paths cover 37.50% instances
+c min redundancy: 33.33%
+c max redundancy: 33.33%
+c avg redundancy: 33.33%

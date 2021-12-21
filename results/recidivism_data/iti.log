@@ -1,0 +1,12 @@
+Leaves: 306, xtests: 8.80, instances: 3198, accuracy: 51.250, cpu: 0.0300, transps: 0 (iti-fast)
+c #feats: 15
+c #samps: 3998
+saving data names to  ./iti/umass/data/recidivism_data/names
+saving samples to  ./iti/umass/data/recidivism_data/train.data
+c training time: 0.08
+load JSON tree from temp/ITI/recidivism_data.json ...
+c #nodes: 611
+c depth: 15
+saving DT to  ../bench/tree/recidivism_data/ITI/recidivism_data.dt
+saving DT map to  ../bench/map/recidivism_data/ITI/recidivism_data.map
+saving test data to  ./iti/umass/data/recidivism_data/test.data

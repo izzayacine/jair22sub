@@ -1,0 +1,12 @@
+Leaves: 25, xtests: 11.17, instances: 272, accuracy: 59.420, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 6
+c #samps: 341
+saving data names to  ./iti/umass/data/bupa/names
+saving samples to  ./iti/umass/data/bupa/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/bupa.json ...
+c #nodes: 49
+c depth: 24
+saving DT to  ../bench/tree/bupa/ITI/bupa.dt
+saving DT map to  ../bench/map/bupa/ITI/bupa.map
+saving test data to  ./iti/umass/data/bupa/test.data

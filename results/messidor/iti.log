@@ -1,0 +1,12 @@
+Leaves: 54, xtests: 10.44, instances: 916, accuracy: 52.174, cpu: 0.0600, transps: 0 (iti-fast)
+c #feats: 19
+c #samps: 1146
+saving data names to  ./iti/umass/data/messidor/names
+saving samples to  ./iti/umass/data/messidor/train.data
+c training time: 0.10
+load JSON tree from temp/ITI/messidor.json ...
+c #nodes: 107
+c depth: 22
+saving DT to  ../bench/tree/messidor/ITI/messidor.dt
+saving DT map to  ../bench/map/messidor/ITI/messidor.map
+saving test data to  ./iti/umass/data/messidor/test.data

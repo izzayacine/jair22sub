@@ -1,0 +1,12 @@
+Leaves: 8, xtests: 2.80, instances: 182, accuracy: 86.957, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 22
+c #samps: 228
+saving data names to  ./iti/umass/data/spect/names
+saving samples to  ./iti/umass/data/spect/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/spect.json ...
+c #nodes: 15
+c depth: 6
+saving DT to  ../bench/tree/spect/ITI/spect.dt
+saving DT map to  ../bench/map/spect/ITI/spect.map
+saving test data to  ./iti/umass/data/spect/test.data

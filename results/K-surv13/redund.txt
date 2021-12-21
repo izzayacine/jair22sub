@@ -1,0 +1,13 @@
+path (at1=a1 > at2=a1) is irredundant
+path (at1=a1 > at2=b2 > at3=a3) is irredundant
+path (at1=a1 > at2=c2 > at4=a4) is irredundant
+path (at1=a1 > at2=b2 > at3=b3) is redundant
+path (at1=a1 > at2=c2 > at4=b4) is redundant
+path ([at1=b1|at1=c1]) is irredundant
+c nof paths: 6
+c redundant paths: 33%
+c non-redundant paths: 67%
+c redundant paths cover 11.11% instances
+c min redundancy: 33.33%
+c max redundancy: 33.33%
+c avg redundancy: 33.33%

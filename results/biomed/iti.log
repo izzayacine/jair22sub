@@ -1,0 +1,12 @@
+Leaves: 17, xtests: 6.35, instances: 167, accuracy: 64.286, cpu: 0.0000, transps: 0 (iti-fast)
+c #feats: 8
+c #samps: 209
+saving data names to  ./iti/umass/data/biomed/names
+saving samples to  ./iti/umass/data/biomed/train.data
+c training time: 0.01
+load JSON tree from temp/ITI/biomed.json ...
+c #nodes: 33
+c depth: 8
+saving DT to  ../bench/tree/biomed/ITI/biomed.dt
+saving DT map to  ../bench/map/biomed/ITI/biomed.map
+saving test data to  ./iti/umass/data/biomed/test.data

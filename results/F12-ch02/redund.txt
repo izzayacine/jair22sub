@@ -1,0 +1,10 @@
+path (Viagra=0 > lottery=0) is irredundant
+path (Viagra=0 > lottery=1) is redundant
+path (Viagra=1) is irredundant
+c nof paths: 3
+c redundant paths: 33%
+c non-redundant paths: 67%
+c redundant paths cover 25.00% instances
+c min redundancy: 50.00%
+c max redundancy: 50.00%
+c avg redundancy: 50.00%
