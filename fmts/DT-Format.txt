@@ -1,0 +1,6 @@
+<num-tree-nodes>
+<root-node-id>
+"I" <node-id-list>
+"T" <node-id-list>
+[ <term-node-id> T <0|1|...> ]+
+[ <int-node-id> <feature-name> <symb-val-id> <child-node> ]+

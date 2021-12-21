@@ -1,0 +1,3 @@
+<Categorical|Ordinal>
+<num-features>
+[ <feature-name> <sym-val-id> "rel-op"<value> ]+
