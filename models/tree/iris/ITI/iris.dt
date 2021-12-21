@@ -1,0 +1,35 @@
+21
+1
+I 1 3 5 7 9 11 13 15 17 19
+T 2 4 6 8 10 12 14 16 18 20 21
+2 T Setosa
+4 T Setosa
+6 T Setosa
+8 T Setosa
+10 T Setosa
+12 T Versicolor
+14 T Versicolor
+16 T Versicolor
+18 T Versicolor
+20 T Versicolor
+21 T Virginica
+1 f3 23 2
+1 f3 22 3
+3 f2 31 4
+3 f2 30 5
+5 f3 41 6
+5 f3 40 7
+7 f2 21 8
+7 f2 20 9
+9 f3 15 10
+9 f3 14 11
+11 f3 25 12
+11 f3 24 13
+13 f3 7 14
+13 f3 6 15
+15 f3 1 16
+15 f3 0 17
+17 f3 5 18
+17 f3 4 19
+19 f2 73 20
+19 f2 72 21

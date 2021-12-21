@@ -1,0 +1,10 @@
+Categorical
+3
+priors 1 <2
+priors 2 =2
+priors 3 =3
+priors 4 >3
+age 1 <26
+age 2 >=26
+juvenile_crimes 1 =True
+juvenile_crimes 2 =False
