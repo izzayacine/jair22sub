@@ -1,0 +1,6 @@
+Categorical
+2
+chest-pain 1 =False
+chest-pain 2 =True
+blood-pressure 1 =High
+blood-pressure 2 =Low

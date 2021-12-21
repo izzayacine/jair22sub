@@ -1,0 +1,8 @@
+Categorical
+3
+blood-pressure 1 >91
+blood-pressure 2 <=91
+age 1 >62.5
+age 2 <=62.5
+tachycardie 1 =Yes
+tachycardie 2 =No

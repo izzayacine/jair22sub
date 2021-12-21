@@ -1,0 +1,12 @@
+Categorical
+4
+outlook 1 =overcast
+outlook 3 =sunny
+outlook 5 =rain
+temperature 1 =hot
+temperature 3 =cool
+temperature 5 =mild
+humidity 0 =normal
+humidity 1 =high
+windy 0 =false
+windy 1 =true

@@ -1,0 +1,11 @@
+5
+1
+I 1 3
+T 2 4 5
+2 T Not-tasty
+4 T Not-tasty
+5 T Tasty
+1 Color 1 2
+1 Color 2 3
+3 Softness 1 4
+3 Softness 2 5

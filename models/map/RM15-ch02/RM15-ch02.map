@@ -1,0 +1,6 @@
+Categorical
+1
+email-len 1 <1.8
+email-len 2 >=1.8
+email-len 3 <4
+email-len 4 >=4

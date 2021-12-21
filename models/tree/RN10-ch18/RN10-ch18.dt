@@ -1,0 +1,23 @@
+12
+1
+I 1 4 6 9
+T 2 3 5 7 8 10 11 12
+2 T No
+3 T Yes
+5 T No
+7 T Yes
+8 T No
+10 T No
+11 T Yes
+12 T Yes
+1 Patrons 1 2
+1 Patrons 2 3
+1 Patrons 3 4
+4 Hungry 1 5
+4 Hungry 2 6
+6 Type 1 7
+6 Type 2 8
+6 Type 3 9
+6 Type 4 12
+9 Fri/Sat 1 10
+9 Fri/Sat 2 11

@@ -1,0 +1,13 @@
+Categorical
+4
+wage 1 <=2.5
+wage 2 >2.5
+wage 3 <=4
+wage 4 >4
+working-hours 1 <=36
+working-hours 2 >36
+contribution-health-plan 1 =none
+contribution-health-plan 2 =half
+contribution-health-plan 3 =full
+statutory-holidays 1 <=10
+statutory-holidays 2 >10

@@ -1,0 +1,11 @@
+Categorical
+4
+age 1 <30
+age 2 >=30
+condition 1 =excellent
+condition 2 =fair
+location 1 =city
+location 2 =suburbs
+location 3 =country
+neighborhood 1 =good
+neighborhood 2 =bad

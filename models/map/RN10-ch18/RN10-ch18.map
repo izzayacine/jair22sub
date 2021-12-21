@@ -1,0 +1,13 @@
+Categorical
+4
+Patrons 1 =None
+Patrons 2 =Some
+Patrons 3 =Full
+Hungry 1 =No
+Hungry 2 =Yes
+Type 1 =French
+Type 2 =Italian
+Type 3 =Thai
+Type 4 =Burger
+Fri/Sat 1 =No
+Fri/Sat 2 =Yes

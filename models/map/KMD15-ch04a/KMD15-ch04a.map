@@ -1,0 +1,8 @@
+Categorical
+2
+evaluation 1 <2.25
+evaluation 2 >=2.25
+evaluation 3 <4.175
+evaluation 4 >=4.175
+stream 1 =True
+stream 2 =False

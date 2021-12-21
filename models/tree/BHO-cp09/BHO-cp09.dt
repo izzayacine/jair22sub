@@ -1,0 +1,25 @@
+13
+1
+I 1 2 3 7 9 10
+T 4 5 6 8 11 12 13
+4 T -
+5 T +
+6 T +
+8 T -
+11 T -
+12 T +
+13 T +
+1 humidity 0 2
+1 humidity 1 7
+2 outlook 5 3
+2 outlook 1 6
+2 outlook 3 6
+3 windy 1 4
+3 windy 0 5
+7 outlook 3 8
+7 outlook 1 9
+7 outlook 5 9
+9 outlook 5 10
+9 outlook 1 13
+10 windy 1 11
+10 windy 0 12

@@ -1,0 +1,8 @@
+Categorical
+2
+temperature 1 <=20
+temperature 2 >20
+temperature 3 <=35
+temperature 4 >35
+humidity 1 <=50
+humidity 2 >50
